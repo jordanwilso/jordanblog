@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>https://example.org/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Blog Pipeline</title>
+      <link>https://example.org/posts/my-blog-pipeline/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/posts/my-blog-pipeline/</guid>
+      <description>&lt;h2 id=&#34;obsidian&#34;&gt;Obsidian&lt;/h2&gt;&#xA;&lt;h2 id=&#34;the-setup&#34;&gt;The Setup&lt;/h2&gt;&#xA;&lt;pre&gt;&lt;code&gt;- create a new folder labeled posts. This is where I will add my blog posts.&#xA;- created posts folder in content folder of blogsite locally&#xA;- mirrored obsidian posts folder to blogsite posts folder&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;h2 id=&#34;setting-up-hugo&#34;&gt;Setting Up Hugo&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Install Hugo&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;prerequisites&#34;&gt;Prerequisites:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;**Install Git: **&#xA;-![[Pasted image 20241206061702.png]]&#xA;Git was already installed so I checked for updates:&#xA;![[Pasted image 20241206062019.png]]&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Install Go:&lt;/strong&gt; &lt;a href=&#34;https://go.dev/dl/&#34;&gt;https://go.dev/dl/&lt;/a&gt;&#xA;-![[Pasted image 20241206062744.png]]&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Install Hugo&lt;/strong&gt;&#xA;Link: &lt;a href=&#34;https://gohugo.io/installation/&#34;&gt;https://gohugo.io/installation/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
